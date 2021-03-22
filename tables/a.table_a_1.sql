@@ -1,0 +1,1 @@
+create or replace table a.table_a_1(name string);
