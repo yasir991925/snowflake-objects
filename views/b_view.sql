@@ -1,2 +1,2 @@
-create or replace B.view as
+create or replace view B.some_view as
 select * from A.customers;
